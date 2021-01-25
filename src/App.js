@@ -1,7 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import ToDo from './app/todolist';
 import {
   BrowserRouter as Router,
   Route,
